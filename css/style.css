@@ -1,0 +1,32 @@
+body{
+  color: #2c2e81;
+  background-color: #F0D3F7;
+  font-family: "Itim", cursive;
+  font-weight: 400;
+  font-style: normal;
+  width: 95vw;
+  margin: auto;
+}
+a{
+  text-decoration: none;
+}
+h1{
+  font-size: 128px;
+}
+p{
+  color: #882890;
+  font-size: 200px;
+}
+nav{
+  margin-top: 10px;
+  background-color: #2c2e81;
+  border-radius: 25px;
+
+}
+nav a{
+  color: #F9DEBB;
+  font-size: 20px;
+  padding: 14px 25px;
+  text-align: center;
+  display: inline-block;
+}
